@@ -6,12 +6,14 @@ class ControllerPaymentCoinpayments extends Controller {
 			'DOG' => 'DOGE',
 			'MNT' => 'MINT',
 			'NBL' => 'NOBL',
+			'DAS' => 'DASH',
 			'CAP' => 'CAPT',
-			'CLO' => 'CLOAK',
+			'CLK' => 'CLOAK',
 			'HTM' => 'HTML5',
 			'HYP' => 'HYPER',
-			'STA' => 'START',
-			'ZET' => 'ZEIT',
+			'OPL' => 'OPAL',
+			'SRT' => 'START',
+			'ZEI' => 'ZEIT',
 			'LTT' => 'LTCT',
 		);
 		if (isset($coins[$code])) {
