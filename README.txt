@@ -1,6 +1,8 @@
 OpenCart 2.0 Payment Gateway plugin for CoinPayments.net
 ========================
 
+> NOTICE: Migrated to [CoinPaymentsNet/plugin-opencart](https://github.com/CoinPaymentsNet/plugin-opencart).
+
 To install:
 1) Upload the contents of the upload folder into your OpenCart root folder.
 2) Go to the Payment extensions area and click the Install button.
